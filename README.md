@@ -14,9 +14,11 @@ The Customer Management API Solution consists of three projects:
     
 ### Installation
 ```bash
-$ https://github.com/AbanoubAshraaf/CustomerManagement.git
+$ git clone https://github.com/AbanoubAshraaf/CustomerManagement.git
 ```
-
+```bash
+$ cd CustomerManagement
+```
 ## CustomerManagementAPI
 This project contains the main Customer Management API, which provides RESTful endpoints for managing customer records.
 
