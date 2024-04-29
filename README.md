@@ -1,23 +1,23 @@
 # Customer Managment and Denomination routine
 The Customer Management API Solution consists of three projects:
 
-  - [CustomerManagemntAPI](#-Customer-Management-API)
-  - [CustomerManagementAPISimulator](#-#-Customer-Management-API=Simulator)
-  - [Denomination routine](#-Denomination-routine)
+  - [CustomerManagemntAPI](#customermanagementapi)
+  - [CustomerManagementAPISimulator](#customermanagementapisimulator)
+  - [Denomination routine](#denomination-routine)
 
 ## Contents
-  - [Installation](#-get-started)
-  - [CustomerManagemntAPI](#-Customer-Management-API)
-  - [CustomerManagementAPISimulator](#-#-Customer-Management-API=Simulator)
-  - [Denomination routine](#-Denomination-routine)
-  - [Program Structure](#-Program-Structure)
+  - [Installation](#installation)
+  - [CustomerManagemntAPI](#customermanagementapi)
+  - [CustomerManagementAPISimulator](#customermanagementapisimulator)
+  - [Denomination routine](#denomination-routine)
+  - [Program Structure](#program-structure)
     
 ### Installation
 ```bash
 $ https://github.com/AbanoubAshraaf/CustomerManagement.git
 ```
 
-## CustomerManagementAPI:
+## CustomerManagementAPI
 This project contains the main Customer Management API, which provides RESTful endpoints for managing customer records.
 
 ```bash
@@ -26,7 +26,7 @@ $ cd Abanoub.CM.API
 ```bash
 $ dotnet run
 ```
-## CustomerManagementAPISimulator:
+## CustomerManagementAPISimulator
 This project is a simulator for testing the Customer Management API. It allows you to send multiple requests to the API in parallel to simulate real-world usage.
 
 ```bash
@@ -35,7 +35,7 @@ $ cd Abanoub.CM.Simulator
 ```bash
 $ dotnet run
 ```
-## Denomination routine:
+## Denomination routine
 a program which will calculate for each payout the possible combinations from the three cartridges 10,50 and 100 which the ATM can pay out.
 
 ```bash
