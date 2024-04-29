@@ -1,16 +1,16 @@
 # Customer Managment and Denomination routine
 The Customer Management API Solution consists of three projects:
 
-  - [CustomerManagemntAPI](#-Customer-Management-API)
-  - [CustomerManagementAPISimulator](#-#-Customer-Management-API=Simulator)
-  - [Denomination routine](#-Denomination-routine)
+  - [CustomerManagemntAPI](#customermanagementapi)
+  - [CustomerManagementAPISimulator](#customermanagementapisimulator)
+  - [Denomination routine](#denomination-routine)
 
 ## Contents
-  - [Installation](#-Installation)
-  - [CustomerManagemntAPI](#-customer-management-aPI)
-  - [CustomerManagementAPISimulator](#-#-customer-management-api=simulator)
-  - [Denomination routine](#-denomination-routine)
-  - [Program Structure](#-program-structure)
+  - [Installation](#installation)
+  - [CustomerManagemntAPI](#customermanagementapi)
+  - [CustomerManagementAPISimulator](#customermanagementapisimulator)
+  - [Denomination routine](#denomination-routine)
+  - [Program Structure](#program-structure)
     
 ### Installation
 ```bash
