@@ -1,0 +1,12 @@
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\bin\Debug\net8.0\Abanoub.CM.Core.deps.json
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\bin\Debug\net8.0\Abanoub.CM.Core.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\bin\Debug\net8.0\Abanoub.CM.Core.pdb
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\Abanoub.CM.Core.csproj.AssemblyReference.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\Abanoub.CM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\Abanoub.CM.Core.AssemblyInfoInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\Abanoub.CM.Core.AssemblyInfo.cs
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\Abanoub.CM.Core.csproj.CoreCompileInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\Abanoub.CM.Core.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\refint\Abanoub.CM.Core.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\Abanoub.CM.Core.pdb
+D:\Asp.net\CustomerManagement\Abanoub.CM.Core\obj\Debug\net8.0\ref\Abanoub.CM.Core.dll

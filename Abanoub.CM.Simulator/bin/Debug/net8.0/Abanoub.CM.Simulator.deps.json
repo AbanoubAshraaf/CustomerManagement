@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Abanoub.CM.Simulator/1.0.0": {
+        "dependencies": {
+          "Abanoub.CM.BOL": "1.0.0"
+        },
+        "runtime": {
+          "Abanoub.CM.Simulator.dll": {}
+        }
+      },
+      "Abanoub.CM.BOL/1.0.0": {
+        "runtime": {
+          "Abanoub.CM.BOL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abanoub.CM.Simulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abanoub.CM.BOL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

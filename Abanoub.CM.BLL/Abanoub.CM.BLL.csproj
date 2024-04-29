@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Abanoub.CM.BOL\Abanoub.CM.BOL.csproj" />
+    <ProjectReference Include="..\Abanoub.CM.Core\Abanoub.CM.Core.csproj" />
+    <ProjectReference Include="..\Abanoub.CM.DAL\Abanoub.CM.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

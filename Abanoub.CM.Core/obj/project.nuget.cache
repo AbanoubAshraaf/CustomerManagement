@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ggxRMxk4FttWWKQuzuQBrTqr/IL+V+BTxg0RTh6eBlo3zCqwLRBLkPLx2VS3Hv7RWuPYEnQRC02MAcykZn6X8w==",
+  "success": true,
+  "projectFilePath": "D:\\Asp.net\\CustomerManagement\\Abanoub.CM.Core\\Abanoub.CM.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Centrino\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

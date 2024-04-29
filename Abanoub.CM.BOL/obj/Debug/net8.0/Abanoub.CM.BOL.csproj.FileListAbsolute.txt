@@ -1,0 +1,11 @@
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\bin\Debug\net8.0\Abanoub.CM.BOL.deps.json
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\bin\Debug\net8.0\Abanoub.CM.BOL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\bin\Debug\net8.0\Abanoub.CM.BOL.pdb
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\Abanoub.CM.BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\Abanoub.CM.BOL.AssemblyInfoInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\Abanoub.CM.BOL.AssemblyInfo.cs
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\Abanoub.CM.BOL.csproj.CoreCompileInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\Abanoub.CM.BOL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\refint\Abanoub.CM.BOL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\Abanoub.CM.BOL.pdb
+D:\Asp.net\CustomerManagement\Abanoub.CM.BOL\obj\Debug\net8.0\ref\Abanoub.CM.BOL.dll

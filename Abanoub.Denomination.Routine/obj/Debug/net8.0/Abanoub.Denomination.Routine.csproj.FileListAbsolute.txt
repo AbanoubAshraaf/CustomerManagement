@@ -1,0 +1,14 @@
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\bin\Debug\net8.0\Abanoub.Denomination.Routine.exe
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\bin\Debug\net8.0\Abanoub.Denomination.Routine.deps.json
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\bin\Debug\net8.0\Abanoub.Denomination.Routine.runtimeconfig.json
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\bin\Debug\net8.0\Abanoub.Denomination.Routine.dll
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\bin\Debug\net8.0\Abanoub.Denomination.Routine.pdb
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\Abanoub.Denomination.Routine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\Abanoub.Denomination.Routine.AssemblyInfoInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\Abanoub.Denomination.Routine.AssemblyInfo.cs
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\Abanoub.Denomination.Routine.csproj.CoreCompileInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\Abanoub.Denomination.Routine.dll
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\refint\Abanoub.Denomination.Routine.dll
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\Abanoub.Denomination.Routine.pdb
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\Abanoub.Denomination.Routine.genruntimeconfig.cache
+D:\Asp.net\CustomerManagement\Abanoub.Denomination.Routine\obj\Debug\net8.0\ref\Abanoub.Denomination.Routine.dll

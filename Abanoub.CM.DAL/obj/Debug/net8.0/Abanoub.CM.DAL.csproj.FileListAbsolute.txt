@@ -1,0 +1,17 @@
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\bin\Debug\net8.0\Abanoub.CM.DAL.deps.json
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\bin\Debug\net8.0\Abanoub.CM.DAL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\bin\Debug\net8.0\Abanoub.CM.DAL.pdb
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\bin\Debug\net8.0\Abanoub.CM.BOL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\bin\Debug\net8.0\Abanoub.CM.BOL.pdb
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub.CM.DAL.csproj.AssemblyReference.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub.CM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub.CM.DAL.AssemblyInfoInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub.CM.DAL.AssemblyInfo.cs
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub.CM.DAL.csproj.CoreCompileInputs.cache
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub..1B3AB173.Up2Date
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub.CM.DAL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\refint\Abanoub.CM.DAL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\Abanoub.CM.DAL.pdb
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\obj\Debug\net8.0\ref\Abanoub.CM.DAL.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\bin\Debug\net8.0\Abanoub.CM.Core.dll
+D:\Asp.net\CustomerManagement\Abanoub.CM.DAL\bin\Debug\net8.0\Abanoub.CM.Core.pdb
